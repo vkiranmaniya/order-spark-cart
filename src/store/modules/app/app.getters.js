@@ -1,0 +1,1 @@
+export const isCartVisible = (state) => state.cart.visible;
